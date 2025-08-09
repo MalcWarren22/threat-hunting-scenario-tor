@@ -75,9 +75,9 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Malcolm Warren
-- **Author Contact**: https://www.linkedin.com/in/malcolm-warren-nsu/
-- **Date**: August 5th, 2025
+- **Author Name**: `Malcolm Warren`
+- **Author Contact**: `https://www.linkedin.com/in/malcolm-warren-nsu/`
+- **Date**: `August 5th, 2025`
 
 ## Validated By:
 - **Reviewer Name**: 
