@@ -86,8 +86,6 @@ DeviceFileEvents
 
 ---
 
----
-
 ## Revision History:
 | **Version** | **Date**   | **Modified By**   |
 |-------------|------------|-------------------|
