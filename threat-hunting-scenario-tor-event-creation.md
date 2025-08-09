@@ -86,9 +86,6 @@ DeviceFileEvents
 
 ---
 
-## Additional Notes:
-- **None**
-
 ---
 
 ## Revision History:
