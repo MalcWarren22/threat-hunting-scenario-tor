@@ -96,7 +96,8 @@ Searched for any indication the TOR browser was used to establish a connection u
  | order by Timestamp desc
  
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/87a02b5b-7d12-4f53-9255-f5e750d0e3cb">
+<img width="1002" height="242" alt="image" src="https://github.com/user-attachments/assets/bef45096-f7ad-4bd2-bfa1-be256e3ecccb" />
+
 
 ---
 
