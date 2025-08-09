@@ -94,5 +94,5 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Date**   | **Modified By**   |
 |-------------|------------|-------------------|
-| 1.0         | `08-05-25` |  | `Malcolm Warren`   
+| 1.0         | `08-05-25` | `Malcolm Warren`  | 
 
