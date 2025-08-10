@@ -128,7 +128,7 @@ Searched for any indication the TOR browser was used to establish a connection u
 ### 4. Network Connection - TOR Network
 
 - **Timestamp:** `2025-08-05T18:53:29.0895746Z`
-- **Event:** A network connection to IP `185.162.250.173` on port `9001` by user "employee" was established using `tor.exe`, confirming TOR browser network activity.
+- **Event:** A network connection to IP `185.162.250.173` on port `9001` by user "labuser22" was established using `tor.exe`, confirming TOR browser network activity.
 - **Action:** Connection success.
 - **Process:** `tor.exe`
 - **File Path:** `C:\users\labuser22\desktop\tor browser\browser\torbrowser\tor\tor.exe`
