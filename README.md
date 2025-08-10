@@ -108,7 +108,7 @@ Searched for any indication the TOR browser was used to establish a connection u
 - **Timestamp:** `2025-08-05T18:52:25.3159386Z`
 - **Event:** The user "labuser22" downloaded a file named `tor-browser-windows-x86_64-portable-14.5.5.exe` to the Downloads folder.
 - **Action:** File download detected.
-- **File Path:** `C:\Users\employee\Downloads\tor-browser-windows-x86_64-portable-14.5.5.exe`
+- **File Path:** `C:\Users\labuser22\Downloads\tor-browser-windows-x86_64-portable-14.5.5.exe`
 
 ### 2. Process Execution - TOR Browser Installation
 
@@ -138,7 +138,7 @@ Searched for any indication the TOR browser was used to establish a connection u
 - **Timestamps:**
   - `2025-08-05T18:53:26.4912791Z` - Connected to `135.148.171.158` on port `443`.
   - `2025-08-05T18:53:56.6022135Z` - Local connection to `78.46.92.172` on port `9001`.
-- **Event:** Additional TOR network connections were established, indicating ongoing activity by user "employee" through the TOR browser.
+- **Event:** Additional TOR network connections were established, indicating ongoing activity by user "labuser22" through the TOR browser.
 - **Action:** Multiple successful connections detected.
 
 ### 6. File Creation - TOR Shopping List
